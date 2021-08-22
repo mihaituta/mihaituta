@@ -1,5 +1,5 @@
 ## Hi, I'm Mihai Tuta. 
-I am a passionate web developer based in Germany, I like coding, video games, series, anime, learning new things and visiting interesting places.
+I am a passionate web developer recently relocated in Germany, I like coding, video games, series, anime, learning new things and visiting interesting places.
 
 ### Let's talk
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">][mail] 
