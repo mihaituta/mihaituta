@@ -1,4 +1,4 @@
-## Hi, I'm Mihai Tuta. 
+## Hi, I'm Mihai Tuță 
 I am a passionate web developer recently relocated in Germany, I like coding, video games, TV series, anime, learning new things and visiting interesting places.
 
 ### Languages and Tools
