@@ -1,5 +1,5 @@
 ## Hi, I'm Mihai Tuță 
-I am a passionate Front end developer recently relocated in Germany, I like coding, video games, TV series, anime, learning new things and visiting interesting places.
+I am a passionate Front-end developer recently relocated in Germany, I like coding, video games, TV series, anime, learning new things and visiting interesting places.
 
 Portfolio: https://mihaituta.netlify.app
 ### Languages and Tools
