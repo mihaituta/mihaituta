@@ -11,5 +11,5 @@ Portfolio: https://mihaituta.netlify.app
 [<img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">][portfolio] 
 
 [mail]: mailto:tutamihai@gmail.com
-[portfolio]: https://tutamihai.wixsite.com/portofolio
+[portfolio]: https://mihaituta.netlify.app/
 [linkedin]: https://www.linkedin.com/in/mihai-tuta/
