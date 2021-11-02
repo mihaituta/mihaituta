@@ -1,5 +1,5 @@
 ## Hi, I'm Mihai Tuță 
-I am a passionate **Front-end developer** relocated in Germany, I like coding, video games, TV series, anime, learning new things and visiting interesting places.
+I am a passionate **Front-end developer** and I build things for the web. I like coding, video games, TV series, anime, learning new things and visiting interesting places.
 
 [<img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">][portfolio] 
 
